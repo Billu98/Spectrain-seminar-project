@@ -56,7 +56,7 @@ Open main.ipynb in your browser and run the cells to execute the experiments.
 --> Objective: Compare training latency using standard GPU training and CUDA Streams with SpecTrain.
 ## ResNet and VGG on CIFAR-10
 ## Models: ResNet18 and VGG16.
-D## ataset: CIFAR-10, containing 60,000 32x32 color images in 10 classes.
+Dataset: CIFAR-10, containing 60,000 32x32 color images in 10 classes.
 --> Objective: Compare training latency using standard GPU training and CUDA Streams with SpecTrain.
 ## Results
 The notebook will output the training times for each model and training method, allowing you to compare the performance of standard GPU training and CUDA Streams with the SpecTrain optimizer.
